@@ -5,7 +5,7 @@ categories: 0823-Archives
 tags : Introduction
 ---
 
-- ![Image Alt 텍스트](/assets/img/image.png)
+- !(/assets/img/image.png)
 
 
 ## 개요
