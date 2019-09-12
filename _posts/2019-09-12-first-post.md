@@ -1,16 +1,31 @@
 ---
-title: "그날의 함성에 대한 기록"
+title: "그날의 함성에 대한 기록실 Open"
 date: 2019-09-12 12:10:00 -0400
 categories: 0823-Archives
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+## 개요
+* 이 웹페이지는 여러군데 흩어져있는 2019-08-23(금) 서울 고려대학교 중앙광장에서 개최된 "조국 후보자 딸의 고려대 입학과정에 대한 진상 규명 촉구" 집회 (이하 [0823 집회] )관련 정보를 한 군데 모으기 위해 생성되었습니다. 
 
-Jekyll also offers powerful support for code snippets:
+## 목적
+* 이 페이지를 운영하는 목적은 다음과 같습니다. 
+    * [0823 집회]와 관련된 사실관계를 명확히 전달하여 고려대학교 및 고려대학교 교우를 정치적으로 이용하려는 모든 세력을 배격
+    * [0823 집회] 및 파생된 여러 사건에 대한 사실관계 확인 시간을 절감하고, 이를 통해 핵심 사안에 대해 집중있는 토론을 유도
+    * 현재 학부에서 학교를 다니고 있는 후배들이 객관적으로 확인된 사실을 종합적으로 접할 수 있는 창구를 마련
+    * 대부분 로그인을 해야만 정보습득을 할 수 있는 현행 'Facebook', '에브리타임', 'www.koreapas.com(고파스)' 외의 별도의 정보전달 창구를 마련
+        * 이를 통해 교외 언론사들에게 객관적 사실을 전달하고 이를 통해 잘못된 정보로 호도하지 못할 수 있는 지표를 형성
 
-​```python
-def print_hi(name):
-  print("hello", name)
-print_hi('Tom')
-​```
+## 담고있는 정보의 범위
+* 이 페이지에서 다루고 있는 정보의 범위는 다음과 같습니다. 
+    * [0823 집회]를 촉발시킨 사회적 배경 및 학내 배경과 관련된 정보
+    * [0823 집회]의 개최 준비과정, 집회실황 및 내용, 사후 처리 결과와 관련된 정보
+    * [0823 집회] 집행부가 [제 50대 고려대학교 중앙운영위원회, 이하 총학생회] 에게 이양하여 개최된 각 집회 별 준비과정 및 집회실황 및 내용, 사후 처리 결과와 관련된 정보
+
+## 페이지 관리자 및 운영방향
+* 이 페이지는, 고려대학교 교우인 한 개인이 관리하고 있습니다.
+    * 고파스 닉네임은 현재 'Misakiguchi'를 사용하고 있습니다.
+* 이 페이지의 운영방향은 '정보전달' 입니다. 페이지 관리자의 주관은 담지 않을것이며, 학내-외 언론기사, www.koreapas.com(고파스), 에브리타임(에타), 페이스북 등에 흩어진 정보를 모으는것에 초점을 두고 운영하고자 합니다. 
+* 모아진 정보에 대해 Reference를 명확히 제시하도록 하겠습니다.
+
+## 문의
+* 이 페이지에 대한 문의는 ku.tigertoenail@gmail.com 으로 부탁드립니다.
