@@ -19,11 +19,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "고려대학교 2019-08-23 집회 관련 Archives"
+title                    : "Korea University 2019-08-23 Spirit Archives"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "KU_tigertoenail"
-description              : "그날의 함성"
+description              : ""
 url                      : "https://ku_tigertoenail.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
