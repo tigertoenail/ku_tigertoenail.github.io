@@ -110,11 +110,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "KU_Tigertoenail"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "그날의 함성을 기억하라"
+  location         : "Korea University"
+  email            : "ku.tigertoenail.gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
