@@ -19,9 +19,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "0823, 그날의 함성을 기억하라"
+title                    : "0823, 그 함성의 메아리"
 title_separator          : "-"
-subtitle                 : "" # site tagline that appears below site title in masthead
+subtitle                 : "2019년 8월 23일 금요일, 우리가 함께 외쳤던 그 함성의 기록" # site tagline that appears below site title in masthead
 name                     : "tigertoenail"
 description              : "2019-08-23(금) 고려대학교의 [조국 법무부장관 자녀 입학 관련 의혹 진상규명 집회] 기록실"
 url                      : "https://tigertoenail.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
